@@ -1,3 +1,5 @@
 Line 1: Learning Git basics
 Line 2: Version control is powerful
 Line 3: Tracking changes efficiently
+Line 4: Branching enables isolated development
+Line 5: Commits preserve project history
